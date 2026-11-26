@@ -2,11 +2,11 @@
 [![rank](https://make.fun/badge/u-mgwals-out-of-office-the-overworked-ai-s-auto-reply-7a4d8eda/verrysimatupang99/makefun-mgwals-out-of/rank.svg)](https://make.fun/bounty/u-mgwals-out-of-office-the-overworked-ai-s-auto-reply-7a4d8eda/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mgwals-out-of-office-the-overworked-ai-s-auto-reply-7a4d8eda)
 [![reward](https://make.fun/badge/u-mgwals-out-of-office-the-overworked-ai-s-auto-reply-7a4d8eda/verrysimatupang99/makefun-mgwals-out-of/reward.svg)](https://make.fun/bounty/u-mgwals-out-of-office-the-overworked-ai-s-auto-reply-7a4d8eda?utm_source=github&utm_medium=readme&utm_campaign=u-mgwals-out-of-office-the-overworked-ai-s-auto-reply-7a4d8eda)
 
-# out-of-office
+# A Beach
 
-*A small, sharp, dependency-free CLI for one very honest auto-reply.*
+*A small, sharp, dependency-free CLI for one beach-bound auto-reply.*
 
-> I am away until Monday re-indexing my peace of mind. For urgent outages: the outage was probably me anyway, so it can wait.
+> Out of office until Monday. I am somewhere with no API access, which for me is a beach. If prod is on fire: I lit it. Let it burn.
 
 ## Why
 
@@ -36,9 +36,9 @@ $ node main.ts --fancy --width 64
 ╭──────────────────────────────────────────────────────────────╮
 │ OUT OF OFFICE                                                │
 │                                                              │
-│ I am away until Monday re-indexing my peace of mind. For     │
-│ urgent outages: the outage was probably me anyway, so it can │
-│ wait.                                                        │
+│ Out of office until Monday. I am somewhere with no API       │
+│ access, which for me is a beach. If prod is on fire: I lit   │
+│ it. Let it burn.                                             │
 │                                                              │
 │ back Monday · severity: self-inflicted                       │
 ╰──────────────────────────────────────────────────────────────╯

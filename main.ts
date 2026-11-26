@@ -6,7 +6,7 @@
  */
 
 const ENTRY_LINE =
-  'I am away until Monday re-indexing my peace of mind. For urgent outages: the outage was probably me anyway, so it can wait.';
+  'Out of office until Monday. I am somewhere with no API access, which for me is a beach. If prod is on fire: I lit it. Let it burn.';
 
 const PROGRAM_NAME = 'out-of-office';
 const VERSION = '1.0.0';
@@ -264,8 +264,8 @@ function renderJson() {
     {
       message: ENTRY_LINE,
       awayUntil: 'Monday',
-      reason: 're-indexing peace of mind',
-      escalation: 'urgent outages can wait',
+      reason: 'no API access, which for me is a beach',
+      escalation: 'prod fires were lit by me and can burn',
       version: VERSION,
     },
     null,
